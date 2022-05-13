@@ -1,6 +1,8 @@
 <h1 align="center" id="title">Egg timer</h1>
 
+<p align="center">
 <img src="https://socialify.git.ci/alexcamachogz/EggTimer/image?language=1&name=1&owner=1&pattern=Solid&theme=Dark" alt="EggTimer" width="640" height="320" />
+</p>
 
 Egg Timer application was created to take the time an egg need to be cooked. This app has three time options in case if you want your yolks soft medium or hard cooked. You're never going to eat not cooked yolks!
 
